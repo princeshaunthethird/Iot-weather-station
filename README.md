@@ -316,7 +316,12 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
+📊 Project Stats
 
+
+
+
+---
 
 ## 🙏 Acknowledgments
 
