@@ -61,14 +61,13 @@ This project is a **portable, battery-powered weather monitoring station** built
 
 | Component | Specification | Quantity | Approx. Cost |
 |-----------|--------------|----------|--------------|
-| **Seeed XIAO ESP32-C6** | RISC-V, Wi-Fi 6, 21×17.5mm | 1 | $5-7 |
-| **DHT11 Sensor** | Temperature & Humidity | 1 | $2-3 |
-| **SSD1306 OLED Display** | 128×64, I²C interface | 1 | $3-5 |
-| **Li-ion Battery** | 3.7V, 1000-2000mAh | 1 | $5-8 |
-| **Resistors** | 100kΩ (for voltage divider) | 2 | $0.10 |
-| **Breadboard/PCB** | For prototyping/final assembly | 1 | $2-5 |
-| **Jumper Wires** | Male-to-female | 10+ | $2 |
-| **Enclosure** | 10×8×5cm plastic box | 1 | $3-5 |
+| **Seeed XIAO ESP32-C6** | RISC-V, Wi-Fi 6, 21×17.5mm | 1 | 4000Rs |
+| **DHT11 Sensor** | Temperature & Humidity | 1 | 100Rs |
+| **SSD1306 OLED Display** | 128×64, I²C interface | 1 | 300Rs |
+| **Li-ion Battery** | 3.7V, 1000-2000mAh | 1 | 120Rs |
+| **Breadboard/PCB** | For prototyping/final assembly | 1 | 50-80Rs |
+| **Jumper Wires** | Male-to-female | 10+ | 150Rs |
+| **Enclosure** | 10×8×5cm plastic box | 1 | 30-50Rs |
 
 **Total Estimated Cost:** $22-35 USD
 
