@@ -69,13 +69,7 @@ This project is a **portable, battery-powered weather monitoring station** built
 | **Jumper Wires** | Male-to-female | 10+ | 150Rs |
 | **Enclosure** | 10×8×5cm plastic box | 1 | 30-50Rs |
 
-**Total Estimated Cost:** $22-35 USD
-
-### Where to Buy
-- **XIAO ESP32-C6**: [Seeed Studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C6-p-5884.html) | [DigiKey](https://www.digikey.com)
-- **DHT11 Sensor**: [Amazon](https://www.amazon.com/s?k=dht11) | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=dht11)
-- **OLED Display**: [Adafruit](https://www.adafruit.com/product/326) | [Amazon](https://www.amazon.com/s?k=ssd1306+oled)
-
+**Total Estimated Cost:** 
 ---
 
 ## 📐 Circuit Diagram
