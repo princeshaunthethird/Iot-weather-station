@@ -253,7 +253,7 @@ Create three virtual pins:
 
 ### Add Widgets
 
-**Web/Mobile Dashboard:**
+**Web/Mobile Dashboard: It is sometimes different for web and phone so use a super chart and if u see there is no data comming change the graph timeline to live in the preview section**
 1. **Gauge Widget** → Datastream V0 (Temperature) → Orange-red gradient
 2. **Gauge Widget** → Datastream V1 (Humidity) → Blue gradient
 3. **Value Display** → Datastream V2 (Battery Voltage)
